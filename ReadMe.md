@@ -20,3 +20,6 @@ Build the API docs locally via
     open target/site/apidocs/index.html
 
 As you can see there are a number of extension methods on the [core Java API](http://vertx.io/api/java/api/) of [vert.x](http://vertx.io/)
+
+### Vert.x 3
+For vert.x 3 bindings see [vertx3-lang-kotlin](https://github.com/cy6erGn0m/vertx3-lang-kotlin)
